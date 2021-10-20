@@ -16,7 +16,9 @@
     text-decoration: none;
 }
 
-
+.links{
+    color: #fff !important;
+}
 .register{
     width: 90px;
 }

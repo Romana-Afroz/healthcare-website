@@ -29,22 +29,22 @@ const Header = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto p-3 fs-6">
-            <Nav.Link  as={Link} to="/home">
+            <Nav.Link className="links"  as={Link} to="/home">
               Home
             </Nav.Link>
-            <Nav.Link  as={Link} to="/about">
+            <Nav.Link className="links" as={Link} to="/about">
               About
             </Nav.Link>
-            <Nav.Link  as={Link} to="/services">
+            <Nav.Link className="links" as={Link} to="/services">
               Service
             </Nav.Link>
-            <Nav.Link as={Link} to="/blog">
+            <Nav.Link  className="links" as={Link} to="/blog">
               Blog
             </Nav.Link>
-            <Nav.Link  as={Link} to="/doctors">
+            <Nav.Link className="links" as={Link} to="/doctors">
               Doctors
             </Nav.Link>
-            <Nav.Link  as={Link} to="/contact">
+            <Nav.Link className="links" as={Link} to="/contact">
               Contact
             </Nav.Link>
             <Form className="d-flex mb-2">
@@ -54,7 +54,7 @@ const Header = () => {
                 className="ms-2"
                 aria-label="Search"
               />
-              <Button variant="info" className="ms-2">
+              <Button variant="dark" className="ms-2">
                 SEARCH
               </Button>
             </Form>
