@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://dlslab.com/wp-content/uploads/2020/12/covid-19-testing-centers-848x477.jpg",
+      "name": "Diagnostic Test",
+      "description": "Medical diagnosis is the process of determining which disease or condition explains a person's symptoms and signs. It is most often referred to as diagnosis with the medical context being implicit."
+    },
+    {
+      "id": 2,
+      "img": "https://gps.uml.edu/images/2015/programs/cert-clinical-pathology.jpg",
+      "name": "Pathology",
+      "description": "Pathology is the study of the causes and effects of disease or injury. The word pathology also refers to the study of disease in general, incorporating a wide range of biology research fields and medical practices."
+    },
+    {
+      "id": 3,
+      "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2291/production/_110894880_gettyimages-1055182908.jpg",
+      "name": "Dental Care",
+      "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery."
+    },
+    {
+      "id": 4,
+      "img": "https://image.freepik.com/free-photo/eyecare-health-concept-portrait-curious-entertained-young-european-woman-sitting-chair-while-eyecare-specialist-testing-sight-with-phoropter-asking-if-she-can-see-clearly_176420-6729.jpg",
+      "name": "Eye Care",
+      "description": "Eye Care is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology."
+    },
+    {
+      "id": 5,
+      "img": "https://image.freepik.com/free-photo/female-patient-undergoing-therapy-with-physiotherapist_23-2148836505.jpg",
+      "name": "Physical Therapy",
+      "description": "Physical Therapy is the science and practice of caring for a patient, managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health."
+    },
+    {
+      "id": 6,
+      "img": "https://image.freepik.com/free-photo/surgeons-interacting-with-each-other-operation-room_1170-2283.jpg",
+      "name": "surgery",
+      "description": "surgery is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems, including their coverings, blood vessels, and all effector tissue, such as muscle."
+    }
+  ]
